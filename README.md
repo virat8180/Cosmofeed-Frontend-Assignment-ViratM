@@ -2,13 +2,10 @@
 
 # General Instructions
 
-1. The following section contains a detailed text on what you need to do as part of this system test.
-    
-2. Read each section carefully, do not skip any section. As part of details, we have given the acceptance criteria as well.
-    
+1. The following section contains a detailed text on what you need to do as part of this system test.    
+2. Read each section carefully, do not skip any section. As part of details, we have given the acceptance criteria as well.   
 3. If at any point, you feel like the requirement is not clear, call one of us and let us know your concern. Try not to speculate, each of us think differently.
-4. Ideally we will receive notifications when you raise a PR and assign us as code reviewers, but if you feel we haven't acknowledged it, call one of us us and let us know.
-5. Please note, we scan all the PRs carefully. If we find your code to be same as any other PR, we will reject your application and you will be prohibited from participating in any future opprotunities. We take plagiarism very seriously.
+4. Please note, we scan all the PRs carefully. If we find your code to be same as any other PR, we will reject your application and you will be prohibited from participating in any future opprotunities. We take plagiarism very seriously.
 
 # Code submission
 1. Fork this repository [see the fork icon on the top right corner of this page].
