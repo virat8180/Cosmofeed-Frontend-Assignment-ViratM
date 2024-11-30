@@ -22,7 +22,7 @@
    Highlight key features and walk us through your code structure briefly.
    Share the video link (e.g., Google Drive, Loom, or YouTube) along with your pull request.
 6.Email Submission:
-   Send your submission link (repository and video) personally to omsharma@cosmofeed.com.
+   Send your submission link (repository and video) personally to my emailId.
    Do not forward or share your submission with anyone else.
 
 
