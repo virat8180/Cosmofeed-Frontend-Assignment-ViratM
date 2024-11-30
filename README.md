@@ -13,7 +13,8 @@
 # Code submission
 1. Fork this repository [see the fork icon on the top right corner of this page].
 2. Add regular commits and regular pushes to your forked repository.
-3. All the requirements i.e., among all the **Must Haves** and any extra features added **must be** mentioned in your          README.md file. Other wise    your pull request **will not be reviewed /    accepted.**
+3. All the requirements i.e., among all the **Must Haves** and any extra features added **must be** mentioned in your          README.md file. Other wise    your pull request **will 
+  not be reviewed /    accepted.**
 4.Explain Your Code:
    Whenever you write a function, include comments explaining its purpose, logic, and any significant decisions made.
    If you use libraries or external dependencies, briefly explain why they were used and how they contribute to solving the problem.
